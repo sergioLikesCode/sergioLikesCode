@@ -1,24 +1,21 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Sérgio!</h1>
+<h1 align="center">Hi 👋, I'm Sérgio</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-## 🔧 | GitHub Estatísticas
-<div align="center">
-  <a href="https://github.com/sergioLikesCode">
-  <img height="180em" width="360px" src="https://github-readme-stats.vercel.app/api?username=sergioLikesCode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioLikesCode&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-## 💻 | Tecnologias que eu uso no meu dia
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolikescode&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolikescode" /> </p>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<!--   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
-</div>
-  
-<br/>
-  
-## 🚀 | Estou aprendendo
-  <img align="center" alt="reactjs" src="https://img.shields.io/badge/reactjs-222222?style=for-the-badge&logo=react&logoColor=blue" />
-  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-1168a2?style=for-the-badge&logo=sass&logoColor=white" />
-  
+- 🌱 I’m currently learning **React, styled-components and scss**
+
+- 💬 Ask me about **React**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sergiolikescode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergiolikescode" height="30" width="40" /></a>
+<a href="https://instagram.com/sergiolikescode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergiolikescode" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiolikescode&theme=dark&show_icons=true&locale=en&layout=compact" alt="sergiolikescode" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiolikescode&show_icons=true&theme=dark&locale=en" alt="sergiolikescode" /></p>
